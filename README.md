@@ -50,5 +50,4 @@
 - Understand if performance is really improving  
 - Detect if there is a decline that requires quick intervention  
 
-## Final Delivery
-- All these analyses and insights were delivered in a clean, easy-to-read interactive dashboard.
+
